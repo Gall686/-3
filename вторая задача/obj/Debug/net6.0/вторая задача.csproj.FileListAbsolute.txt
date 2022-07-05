@@ -1,0 +1,15 @@
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\вторая задача\bin\Debug\net6.0\вторая задача.exe
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\вторая задача\bin\Debug\net6.0\вторая задача.deps.json
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\вторая задача\bin\Debug\net6.0\вторая задача.runtimeconfig.json
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\вторая задача\bin\Debug\net6.0\вторая задача.dll
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\вторая задача\bin\Debug\net6.0\вторая задача.pdb
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\вторая задача\obj\Debug\net6.0\вторая задача.csproj.AssemblyReference.cache
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\вторая задача\obj\Debug\net6.0\вторая задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\вторая задача\obj\Debug\net6.0\вторая задача.AssemblyInfoInputs.cache
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\вторая задача\obj\Debug\net6.0\вторая задача.AssemblyInfo.cs
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\вторая задача\obj\Debug\net6.0\вторая задача.csproj.CoreCompileInputs.cache
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\вторая задача\obj\Debug\net6.0\вторая задача.dll
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\вторая задача\obj\Debug\net6.0\refint\вторая задача.dll
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\вторая задача\obj\Debug\net6.0\вторая задача.pdb
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\вторая задача\obj\Debug\net6.0\вторая задача.genruntimeconfig.cache
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\вторая задача\obj\Debug\net6.0\ref\вторая задача.dll
