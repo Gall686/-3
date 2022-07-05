@@ -1,0 +1,15 @@
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\третья задача\bin\Debug\net6.0\третья задача.exe
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\третья задача\bin\Debug\net6.0\третья задача.deps.json
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\третья задача\bin\Debug\net6.0\третья задача.runtimeconfig.json
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\третья задача\bin\Debug\net6.0\третья задача.dll
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\третья задача\bin\Debug\net6.0\третья задача.pdb
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\третья задача\obj\Debug\net6.0\третья задача.csproj.AssemblyReference.cache
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\третья задача\obj\Debug\net6.0\третья задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\третья задача\obj\Debug\net6.0\третья задача.AssemblyInfoInputs.cache
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\третья задача\obj\Debug\net6.0\третья задача.AssemblyInfo.cs
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\третья задача\obj\Debug\net6.0\третья задача.csproj.CoreCompileInputs.cache
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\третья задача\obj\Debug\net6.0\третья задача.dll
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\третья задача\obj\Debug\net6.0\refint\третья задача.dll
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\третья задача\obj\Debug\net6.0\третья задача.pdb
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\третья задача\obj\Debug\net6.0\третья задача.genruntimeconfig.cache
+C:\Users\Мой\Desktop\ДЗ2массивы и функции\третья задача\obj\Debug\net6.0\ref\третья задача.dll
